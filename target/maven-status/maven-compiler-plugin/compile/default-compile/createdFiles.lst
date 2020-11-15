@@ -1,0 +1,11 @@
+com\stack\MyStack.class
+com\qrcode\BufferedImageLuminaceSource.class
+com\stack\MyNodeStack.class
+com\xml\InvalidXml.class
+com\base64\Test.class
+com\test\Test.class
+com\compressImage\ImageUtil.class
+com\qrcode\QRCodeUtil.class
+com\compressFiles\ZipUtil.class
+com\stack\DoubleStack.class
+com\stack\MyNodeStack$Node.class

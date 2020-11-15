@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c12dc2d-9d6c-4a72-9300-f4708b1b2836" name="Default Changelist" comment="实现栈">
+      <change afterPath="$PROJECT_DIR$/src/docs/OnJava8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/base64/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/compressFiles/ZipUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/compressImage/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javanio/blocknio/BlockingNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javanio/blocknio/BlockingNIOWithResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qrcode/BufferedImageLuminaceSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qrcode/QRCodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stack/DoubleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stack/MyNodeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xml/InvalidXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/base64/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/compressFiles/ZipUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/compressImage/ImageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javanio/blocknio/BlockingNIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/javanio/blocknio/BlockingNIOWithResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qrcode/BufferedImageLuminaceSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qrcode/QRCodeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stack/DoubleStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stack/MyNodeStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stack/MyNodeStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stack/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xml/InvalidXml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/base/MyStack.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/javanio/blocknio/BlockingNIOWithResult.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Program Files\Maven\maven-repository" />
+        <option name="mavenHome" value="C:\Program Files\Maven\apache-maven-3.5.0" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="userSettingsFile" value="C:\Program Files\Maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m -Dmaven.wagon.http.ssl.insecure=true  -Dmaven.wagon.http.ssl.allowall=true  -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="1hOP5vMdkLYYQb1IWvzQ9FRq78x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3716814" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.BlockingNIOWithResult.client">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test" />
+      <module name="My-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockingNIOWithResult.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javanio.blocknio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javanio.blocknio" />
+      <option name="MAIN_CLASS_NAME" value="com.javanio.blocknio.BlockingNIOWithResult" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockingNIOWithResult.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javanio.blocknio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javanio.blocknio" />
+      <option name="MAIN_CLASS_NAME" value="com.javanio.blocknio.BlockingNIOWithResult" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javanio.blocknio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javanio.blocknio" />
+      <option name="MAIN_CLASS_NAME" value="com.javanio.blocknio.BlockingNIO" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockingNIO.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javanio.blocknio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javanio.blocknio" />
+      <option name="MAIN_CLASS_NAME" value="com.javanio.blocknio.BlockingNIO" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlockingNIOWithResult.client" />
+        <item itemvalue="JUnit.BlockingNIOWithResult.server" />
+        <item itemvalue="JUnit.BlockingNIO.server" />
+        <item itemvalue="JUnit.BlockingNIO.client" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c12dc2d-9d6c-4a72-9300-f4708b1b2836" name="Default Changelist" comment="" />
+      <created>1599878985834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599878985834</updated>
+      <workItem from="1599878988885" duration="2142000" />
+      <workItem from="1599881157384" duration="479000" />
+      <workItem from="1599881666450" duration="60000" />
+      <workItem from="1599881769193" duration="1056000" />
+      <workItem from="1599895914869" duration="11514000" />
+      <workItem from="1600139579537" duration="2626000" />
+      <workItem from="1600226486133" duration="2470000" />
+      <workItem from="1600685653331" duration="4302000" />
+      <workItem from="1600830091613" duration="1245000" />
+      <workItem from="1601090187975" duration="1796000" />
+      <workItem from="1601190219875" duration="1556000" />
+      <workItem from="1601435649885" duration="796000" />
+      <workItem from="1602210681255" duration="1986000" />
+      <workItem from="1603331427398" duration="2669000" />
+      <workItem from="1604282608081" duration="4971000" />
+      <workItem from="1604566397989" duration="263000" />
+      <workItem from="1604935005656" duration="775000" />
+      <workItem from="1605087154509" duration="11380000" />
+      <workItem from="1605113297796" duration="2096000" />
+      <workItem from="1605148834033" duration="574000" />
+      <workItem from="1605177439125" duration="2381000" />
+      <workItem from="1605182402779" duration="580000" />
+      <workItem from="1605228217222" duration="788000" />
+      <workItem from="1605262999872" duration="1740000" />
+      <workItem from="1605321274934" duration="6567000" />
+      <workItem from="1605381051682" duration="170000" />
+      <workItem from="1605381260945" duration="915000" />
+      <workItem from="1605407868631" duration="700000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <created>1599879666861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599879666862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="实现栈">
+      <created>1599880522389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599880522389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="实现栈" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现栈" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="242" key="#Notifications" timestamp="1605408454900">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="508" y="242" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1605408454900" />
+    <state x="446" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1603334598934">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1603334598934" />
+    <state x="418" y="247" width="442" height="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603334891236">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="418" y="247" width="442" height="313" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.760@0.0.1280.760" timestamp="1603334891236" />
+    <state x="371" y="127" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605381369242">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="127" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.760@0.0.1280.760" timestamp="1605381369242" />
+    <state x="122" y="59" key="DiffContextDialog" timestamp="1599879846771">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="122" y="59" key="DiffContextDialog/0.0.1280.760@0.0.1280.760" timestamp="1599879846755" />
+    <state x="421" y="121" key="FileChooserDialogImpl" timestamp="1605321825818">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1605321825818" />
+    <state x="454" y="281" key="Github.CreateGistDialog" timestamp="1599879081994">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="454" y="281" key="Github.CreateGistDialog/0.0.1280.760@0.0.1280.760" timestamp="1599879081994" />
+    <state x="458" y="259" width="362" height="298" key="Github.ShareDialog" timestamp="1599882181864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="458" y="259" width="362" height="298" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1599882181864" />
+    <state x="394" y="77" key="Github.UntrackedFilesDialog" timestamp="1599879465665">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="394" y="77" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1599879465665" />
+    <state width="1240" height="155" key="GridCell.Tab.0.bottom" timestamp="1605382177779">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1240" height="155" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1605382177779" />
+    <state width="1240" height="155" key="GridCell.Tab.0.center" timestamp="1605382177779">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1240" height="155" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1605382177779" />
+    <state width="1240" height="155" key="GridCell.Tab.0.left" timestamp="1605382177779">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1240" height="155" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1605382177779" />
+    <state width="1240" height="155" key="GridCell.Tab.0.right" timestamp="1605382177779">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1240" height="155" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1605382177779" />
+    <state width="1238" height="194" key="GridCell.Tab.1.bottom" timestamp="1605182137822">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1605182137822" />
+    <state width="1238" height="194" key="GridCell.Tab.1.center" timestamp="1605182137821">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1605182137821" />
+    <state width="1238" height="194" key="GridCell.Tab.1.left" timestamp="1605182137821">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1605182137821" />
+    <state width="1238" height="194" key="GridCell.Tab.1.right" timestamp="1605182137822">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="194" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1605182137822" />
+    <state x="221" y="114" key="IDE.errors.dialog" timestamp="1603331700595">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="221" y="114" key="IDE.errors.dialog/0.0.1280.760@0.0.1280.760" timestamp="1603331700595" />
+    <state x="456" y="314" key="ReplaceDuplicatesPrompt" timestamp="1605114881464">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="456" y="314" key="ReplaceDuplicatesPrompt/0.0.1280.760@0.0.1280.760" timestamp="1605114881464" />
+    <state x="49" y="46" key="SettingsEditor" timestamp="1605408174449">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="49" y="46" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1605408174449" />
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2" timestamp="1599881165110">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1599881165110" />
+    <state x="209" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605376185345">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="209" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.760@0.0.1280.760" timestamp="1605376185345" />
+    <state x="438" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600687571118">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="438" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1600687571118" />
+    <state x="644" y="259" key="extract.method.dialog" timestamp="1605114878455">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="644" y="259" key="extract.method.dialog/0.0.1280.760@0.0.1280.760" timestamp="1605114878455" />
+    <state x="341" y="111" width="596" height="536" key="find.popup" timestamp="1605375990542">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="341" y="111" width="596" height="536" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1605375990542" />
+    <state x="345" y="167" key="git4idea.merge.GitPullDialog" timestamp="1599882265900">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="345" y="167" key="git4idea.merge.GitPullDialog/0.0.1280.760@0.0.1280.760" timestamp="1599882265900" />
+    <state x="108" y="41" width="1172" height="677" key="new project wizard" timestamp="1600003465593">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="108" y="41" width="1172" height="677" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1600003465593" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1605376365443">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1605376365443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stack/MyStack.java</url>
+          <line>84</line>
+          <properties class="com.stack.MyStack" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compressImage/ImageUtil.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compressImage/ImageUtil.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compressImage/ImageUtil.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
